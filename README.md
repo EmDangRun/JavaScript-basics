@@ -1,5 +1,6 @@
 # JavaScript-basics
 1. Sự khác nhau giữa var, let, const 
+  <pre>
   - var: 
         + Khi báo biến, bạn có thể thay đổi giá trị cho biến ở bất kì ' trong hay ngoài scope ' ( scope nghĩa là {} )
            vd: var a = 0 
@@ -30,3 +31,4 @@
            + Không hỗ trợ hoisting
            + Không thể tạo biến giống nhau
            + Chỉ có thể thay đổi giá trị thông qua object
+  </pre>
