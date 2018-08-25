@@ -29,3 +29,4 @@
   - const: + Giá trị của biến giữ nguyên
            + Không hỗ trợ hoisting
            + Không thể tạo biến giống nhau
+           + Chỉ có thể thay đổi giá trị thông qua object
