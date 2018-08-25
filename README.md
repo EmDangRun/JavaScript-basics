@@ -1,6 +1,6 @@
 # JavaScript-basics
 1. Sự khác nhau giữa var, let, const 
-  `- var: 
+  - var: 
         + Khi báo biến, bạn có thể thay đổi giá trị cho biến ở bất kì ' trong hay ngoài scope ' ( scope nghĩa là {} )
            vd: var a = 0 
                {
@@ -8,7 +8,6 @@
                }
                console.log(a);
            kq: a = 4
-           
          + Hỗ trợ hoisting
            vd: a = 4;
                var a;
@@ -29,4 +28,4 @@
          
   - const: + Giá trị của biến giữ nguyên
            + Không hỗ trợ hoisting
-           + Không thể tạo biến giống nhau`
+           + Không thể tạo biến giống nhau
